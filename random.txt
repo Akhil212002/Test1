@@ -1,0 +1,6 @@
+Random data example:
+4f8a2b
+xYz123
+Hello World!
+987654
+abcdefg
